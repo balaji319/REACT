@@ -1,0 +1,22 @@
+const DATA =[{"list_id":"103","list_name":"Kiran Test","active":"N","campaign_id":"2017","list_count":6},
+{"list_id":"104","list_name":"test","active":"N","campaign_id":"0005","list_count":2},
+{"list_id":"115","list_name":"test","active":"Y","campaign_id":"2000","list_count":3},
+{"list_id":"116","list_name":"test","active":"N","campaign_id":"2000","list_count":4},
+{"list_id":"117","list_name":"test1","active":"N","campaign_id":"2017","list_count":4},
+{"list_id":"118","list_name":"test","active":"N","campaign_id":"1000","list_count":2},
+{"list_id":"119","list_name":"test","active":"N","campaign_id":"1000","list_count":3},
+{"list_id":"220","list_name":"test1","active":"N","campaign_id":"2016","list_count":3},
+{"list_id":"221","list_name":"test1","active":"N","campaign_id":"2016","list_count":3},
+{"list_id":"222","list_name":"test","active":"N","campaign_id":"1000","list_count":3},
+{"list_id":"360","list_name":"V2 Clients","active":"Y","campaign_id":"M360","list_count":0},
+{"list_id":"990","list_name":"Vanny Test","active":"N","campaign_id":"2017","list_count":1},
+{"list_id":"991","list_name":"Vanny Test","active":"Y","campaign_id":"2016","list_count":1},
+{"list_id":"997","list_name":"PPC Inbound List","active":"N","campaign_id":"sales2","list_count":5},
+{"list_id":"998","list_name":"Default Manual list","active":"N","campaign_id":"SSupport","list_count":1},
+{"list_id":"999","list_name":"Default inbound List","active":"N","campaign_id":"SSupport","list_count":5},
+{"list_id":"1000","list_name":"CS1000","active":"N","campaign_id":"SSupport","list_count":2},
+{"list_id":"1001","list_name":"DPP Demo","active":"N","campaign_id":"DPPDemo","list_count":0},
+{"list_id":"1010","list_name":"NationalMods500-899","active":"Y","campaign_id":"107","list_count":0},
+{"list_id":"1888","list_name":"Test 100 List","active":"Y","campaign_id":"vpdemo","list_count":3}]
+
+export default DATA;

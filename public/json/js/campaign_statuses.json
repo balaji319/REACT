@@ -1,0 +1,179 @@
+{
+    "statuslist":[
+        {
+            "min_title" : "A",
+            "title":"A - Answering Machine",
+            "description":"Agent-defined Answering Machine"
+        },
+        {
+            "min_title" : "AA",
+            "title":"AA - Answering Machine Auto",
+            "description":"Dialer-defined Answering Machine"
+        },
+        {
+            "min_title" : "AFAX",
+            "title":"AFAX - Fax Machine Auto",
+            "description":"Dialer-defined Fax Machine"
+        },
+        {
+            "min_title" : "AL",
+            "title":"AL - Answering Machine Msg Played",
+            "description":"AMD (Answering Machine Detection) call sent to a message and message has been played"
+        },
+        {
+            "min_title" : "AM",
+            "title":"AM - Answering Machine Sent to Msg",
+            "description":"AMD (Answering Machine Detection) call sent to a message to be played"
+        },
+        {
+            "min_title" : "B",
+            "title":"B - Busy",
+            "description":"Carrier-received Busy signal, or agent-defined Busy if allowed"
+        },
+        {
+             "min_title" : "CALLBK",
+             "title":"CALLBK - Call Back",
+             "description":"Callback, both scheduled and non-scheduled"
+        },
+        {
+            "min_title" : "CBHOLD",
+            "title":"CBHOLD - Call Back Hold",
+            "description":"Scheduled ANYONE callback that has not hit its trigger, or an"
+        },
+        {
+            "min_title" : "DC",
+            "title":"DC - Disconnected Number",
+            "description":"Disconnected number"
+        },
+        {
+            "min_title" : "DEC",
+            "title":"DEC - Declined Sale",
+            "description":"Agent-defined status"
+        },
+        {
+            "min_title" : "DNC",
+            "title":"DNC - DO NOT CALL",
+                "description":"If defined, lead will also go in the Ytel DNC list"
+        },
+        {
+            "min_title" : "DNCC",
+            "title":"DNCC - DO NOT CALL Hopper Match Campaign",
+            "description":"Status of a lead that matches the phone number of a lead that has been placed in the Ytel Campaign-specific DNC list for this Campaign"
+        },
+        {
+            "min_title" : "DNCL",
+            "title":"DNCL - DO NOT CALL Hopper Match",
+            "description":"Status of a lead that matches the phone number of a lead that has been placed in the Ytel DNC list"
+        },
+        {
+            "min_title" : "DROP",
+            "title":"DROP - Agent Not Available",
+            "description":"Call was dropped while customer was waiting for an agent"
+        },
+        {
+             "min_title" : "ERI",
+             "title":"ERI - Agent Error",
+            "description":"An agent has closed their browser before dispositioning a lead"
+        },
+        {
+            "min_title" : "HOLDTO",
+            "title":"HOLDTO - Hold time option",
+            "description":"Hold time option call termination on inbound call"
+        },
+        {
+            "min_title" : "HXFER",
+            "title":"HXFER - Hold Recall Transfer",
+            "description":"Hold Recall Transfer to another in-group"
+        },
+        {
+            "min_title" : "INCALL",
+            "title":"INCALL - Lead Being Called",
+            "description":"Agent is talking to the lead"
+        },
+        {
+            "min_title" : "N",
+            "title":"N - No Answer",
+            "description":"Agent-defined status"
+        },
+        {
+            "min_title" : "NA",
+            "title":"NA - No Answer AutoDial",
+            "description":"Any outbound call that does not receive an Answer signal (or other signal) from the carrier. This can include ring-no-answer, disconnected, carrier congestion and other errors"
+        },
+        {
+            "min_title" : "NEW",
+            "title":"NEW - New Lead",
+            "description":"Lead has not been called, or cannot be called"
+        },
+        {
+            "min_title" : "NI",
+            "title":"NI - Not Interested",
+            "description":"Agent-defined status"
+        },
+        {
+            "min_title" : "NP",
+            "title":"NP - No Pitch No Price",
+            "description":"Agent-defined status"
+        },
+        {
+            "min_title" : "PM",
+            "title":"PM - Played Message",
+            "description":"Outbound broadcast or SURVEY campaign status for when a message has been played to the customer"
+        },
+        {
+            "min_title" : "PU",
+            "title":"PU - Call Picked Up",
+            "description":"Status that a call is changed to as soon as the carrier has sent the Answer signal and before the call is sent on to an agent"
+        },
+        {
+            "min_title" : "QUEUE",
+            "title":"QUEUE - Lead to Be Called",
+            "description":"Lead is about to be sent to an agent"
+        },
+        {
+            "min_title" : "QVMAIL",
+            "title":"QVMAIL",
+            "description":"Queue Abandon Voicemail Left"
+        },
+        {
+            "min_title" : "RQXFER",
+            "title":"RQXFER - Re-Queue Transfer",
+            "description":"Re-Queue Transfer back to agent"
+        },
+        {
+            "min_title" : "SALE",
+            "title":"SALE - Sale Made",
+            "description":"Agent-defined status"
+        },
+        {
+            "min_title" : "SVYEXT",
+            "title":"SVYEXT - Survey sent to Extension",
+            "description":"Survey outbound campaign status only"
+        },
+        {
+            "min_title" : "SVYHU",
+            "title":"SVYHU - Survey Hungup",
+            "description":"Survey outbound campaign status only"
+        },
+        {
+            "min_title" : "SVYREC",
+            "title":"SVYREC - Survey sent to Record",
+            "description":"Survey outbound campaign status only"
+        },
+        {
+            "min_title" : "SVYVM",
+            "title":"SVYVM - Survey sent to Voicemail",
+            "description":"Survey outbound campaign status only"
+        },
+        {
+            "min_title" : "XDROP",
+            "title":"XDROP - Agent Not Available IN",
+            "description":"Call was dropped while customer was waiting for an agent on an inbound call"
+        },
+        {
+            "min_title" : "XFER",
+            "title":"XFER - Call Transferred",
+            "description":"Call has been sent from an agent to a Closer agent"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ytel-cc",
+  "private_key_id": "1668545089d738f0c31d8cb4c5dd7b546467a66c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtsGwtmzcBW+0N\nWa+Lm4gFiknKqvPeqdnuiMUHL1Oqbv/5ao8jDMgmShK+Oo4wPtqdPbjGkaYlWpju\n/t/xYJTZRaWu6Dn3BQA7kVnvyTqVf4Z5NoXQu305Vt7I04B6EzOz/qVqLW5mYJL7\n1k567O7+QT0g5ZI84KdklswknQ6CP2Fj8zaSZUe7WPKD/82NOClTjtejJtO6yoAj\n+9lF0CDz1n+pG2er6G1Ld2uWJD0USnfMG/s4XgLB+e59QjGaKCo2KN1ojY0pP/0F\nbecaIOEDxwOp1pF0v/TBwbEht4UJA6bFBD+ZbE6xN8ZkLUazcvyMRDEkal7mRWOV\nUMJiSgvnAgMBAAECggEAFkBf24fjCB2KxQcUYkJOrscEpR45l/ESpmiHNWBuy4rk\n6EMqi0b77UvYEt7VkIC86SAbJ/VI38g3h4bHkdjZuOwfScUeh/LwELGSYBHbm4N2\n6th9VDxw0oO6jufpsbn8Cbc54dxoJF2C9xiBfWYVSCV7e1dt4La3Oz/Gb3pffXgC\nxhdt3LLZ0btWxC+9GrKIOprcZXT/PHNj9pQR4BOYvbKGXRodcjhCt0y2VClhQfIE\nbJPQTEBXrrbj25MlvhINmuJyCkELC9iVJAg3JYHvww5+a2q0tnY1+n/K89ba8kR+\ncZYwEfEpkgNN5mxDe05oUtiwQW3KKipO5GTXAtsV4QKBgQDubj9BjyJe8CqJ0SXS\nQikVn1/XdX+004FZZ1O8HANxkhaNcLxAU6TePCF/UEycVuQM0UljznFLy2/HSWh0\n/56Z7znlREq/q8WYlSCOco8I8FbL9RKmXVfbbXEs+pvgOghisPzhROoKp8hZo/r9\n2rnIojARG9co0K5uq01812KDmwKBgQC6fOR/7K0vJgIfDCyC13L/TScagzpuQdL0\n6oOC4DYJOp9CHgNcJPzKtpBqWxKdWG/b1peoHuXjBTf+ZEzUWWpZ2mKP15MDvItQ\nqXYbYG6uFyaBzR+hY+kAD7enC5x5O8oX3T+K9uz/hNXBGKzrzVLD6gw5lMUbQP54\njTUM9gu7pQKBgG2ZFdCf58+2HAefsP/2U4ZR7S9QHnTTaDjdazsjsV2KJn27nX0A\nNd/FyiwIkD6pHkjaBx8urRuHFwmHL9HgElp2Aanme2mhnsGlgwKXnDIir/Mu4vTA\nIXuG0ig3xmEKrAIZkxRFpkNhnpG988iuuwmDrA6hOoTTb+sFKShCpVETAoGAbwNL\n7s8QZUHF/396u8TPgyUFgyXdUadDkmJMOUuJP0MzbON68o5eIbo+C+H9Gcd8hyye\niQkjploD9B73EW3M/oIfLCuTK6VAdZr7YN6t5FqJpLlb+/IC0POKSxmBYzXxXvVp\nDytg99a2fEVZIuHORCv+bQSftVKiaVb93qJVZ7UCgYEAoILNPSrY/JiH9Mg7HA1g\nte16fbcSLEkr8iEzG+vWk98rsU5dindKI/9Q/GKBqHhE7oSHc9yBgdK/z0WrMEYv\n8IHwPyOek45TqzEpauojiFiv4S8XTU5RH57FzeATHUMybvXgmb4mi0BStymj14Z6\nX79b1Tfn2beW3oIHF4+OjgA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ytel-cc-dev@ytel-cc.iam.gserviceaccount.com",
+  "client_id": "101162923013723271781",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ytel-cc-dev%40ytel-cc.iam.gserviceaccount.com"
+}
